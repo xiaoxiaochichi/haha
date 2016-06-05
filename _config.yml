@@ -4,7 +4,7 @@ bio: 'life is so short!'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.png' # Let me take care of this later
+picture: 'https://lh6.googleusercontent.com/--whYuqd2Zso/U5gZkZxQMmI/AAAAAAAAu-E/A4VH6Cr2IX8/s1152/k%25C4%25B1zkulaesi.jpg' # Let me take care of this later
 
 url: http://hupilidemo.github.io/my-test-blog/
 # your url: http://USERNAME.github.io
