@@ -3,8 +3,8 @@ name: 人生自古谁无死？
 bio: 'life is so short!'
 
 # if it's an external image, update below for true
-external-image: true
-picture: 'https://lh6.googleusercontent.com/--whYuqd2Zso/U5gZkZxQMmI/AAAAAAAAu-E/A4VH6Cr2IX8/s1152/k%25C4%25B1zkulaesi.jpg' # Let me take care of this later
+external-image: false
+picture: 'D:\用户目录\Pictures\LifeFrame' # Let me take care of this later
 
 url: http://hellomadeline.github.io/my-blog/
 # your url: http://USERNAME.github.io
